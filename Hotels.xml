@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+<Hotels xmlns="https://cqaxo.github.io/cse445_a4/Hotels.xml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:schemaLocation="https://cqaxo.github.io/cse445_a4/Hotels.xml https://cqaxo.github.io/cse445_a4/Hotels.xsd">
 
   <!-- Hotel from Figure 1 (Tempe, AZ) -->
