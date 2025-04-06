@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="https://cqaxo.github.io/cse445_a4/Hotels.xsd">
+
+  <!-- Hotel from Figure 1 (Tempe, AZ) -->
+  <Hotel Rating="4.2">
+    <Name>Westin</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>11</Number>
+      <Street>E.7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+  <!-- 10 Hotels in Atlanta, GA -->
+
+  <!-- 1. Atlanta Marriott Marquis -->
+  <Hotel Rating="4.2">
+    <Name>Atlanta Marriott Marquis</Name>
+    <Phone>404-521-0000</Phone>
+    <Address NearestAirport="Hartsfield-Jackson Atlanta International Airport">
+      <Number>265</Number>
+      <Street>Peachtree Center Ave NE</Street>
+      <City>Atlanta</City>
+      <State>GA</State>
+      <Zip>30303</Zip>
+    </Address>
+  </Hotel>
+
+  <!-- 2. The Westin Peachtree Plaza -->
+  <Hotel Rating="4.2">
+    <Name>The Westin Peachtree Plaza</Name>
+    <Phone>404-659-1400</Phone>
+    <Address NearestAirport="Hartsfield-Jackson Atlanta International Airport">
+      <Number>210</Number>
+      <Street>Peachtree St NW</Street>
+      <City>Atlanta</City>
+      <State>GA</State>
+      <Zip>30303</Zip>
+    </Address>
+  </Hotel>
+
+  <!-- 3. Courtland Grand Hotel -->
+  <Hotel Rating="3.7">
+    <Name>Courtland Grand Hotel</Name>
+    <Phone>404-659-6500</Phone>
+    <Address NearestAirport="Hartsfield-Jackson Atlanta International Airport">
+      <Number>165</Number>
+      <Street>Courtland St NE</Street>
+      <City>Atlanta</City>
+      <State>GA</State>
+      <Zip>30303</Zip>
+    </Address>
+  </Hotel>
+
+  <!-- 4. Hyatt Regency Atlanta -->
+  <Hotel Rating="4.3">
+    <Name>Hyatt Regency Atlanta</Name>
+    <Phone>404-577-1234</Phone>
+    <Address NearestAirport="Hartsfield-Jackson Atlanta International Airport">
+      <Number>265</Number>
+      <Street>Peachtree Rd NE</Street>
+      <City>Atlanta</City>
+      <State>GA</State>
+      <Zip>30303</Zip>
+    </Address>
+  </Hotel>
+
+  <!-- 5. Loews Atlanta Hotel -->
+  <Hotel Rating="4.5">
+    <Name>Loews Atlanta Hotel</Name>
+    <Phone>404-745-5000</Phone>
+    <Address NearestAirport="Hartsfield-Jackson Atlanta International Airport">
+      <Number>1065</Number>
+      <Street>Peachtree St NE</Street>
+      <City>Atlanta</City>
+      <State>GA</State>
+      <Zip>30309</Zip>
+    </Address>
+  </Hotel>
+
+  <!-- 6. Embassy Suites by Hilton Atlanta at Centennial Olympic Park -->
+  <Hotel Rating="4.1">
+    <Name>Embassy Suites by Hilton Atlanta at Centennial Olympic Park</Name>
+    <Phone>404-223-2300</Phone>
+    <Address NearestAirport="Hartsfield-Jackson Atlanta International Airport">
+      <Number>267</Number>
+      <Street>Marietta St NW</Street>
+      <City>Atlanta</City>
+      <State>GA</State>
+      <Zip>30313</Zip>
+    </Address>
+  </Hotel>
+
+  <!-- 7. Omni Atlanta Hotel at Centennial Park -->
+  <Hotel Rating="4.2">
+    <Name>Omni Atlanta Hotel at Centennial Park</Name>
+    <Phone>404-659-0000</Phone>
+    <Address NearestAirport="Hartsfield-Jackson Atlanta International Airport">
+      <Number>190</Number>
+      <Street>Marietta St NW</Street>
+      <City>Atlanta</City>
+      <State>GA</State>
+      <Zip>30303</Zip>
+    </Address>
+  </Hotel>
+
+  <!-- 8. Hilton Atlanta -->
+  <Hotel Rating="3.9">
+    <Name>Hilton Atlanta</Name>
+    <Phone>404-659-2000</Phone>
+    <Address NearestAirport="Hartsfield-Jackson Atlanta International Airport">
+      <Number>255</Number>
+      <Street>Courtland St NE</Street>
+      <City>Atlanta</City>
+      <State>GA</State>
+      <Zip>30303</Zip>
+    </Address>
+  </Hotel>
+
+  <!-- 9. Renaissance Atlanta Midtown Hotel -->
+  <Hotel Rating="4.3">
+    <Name>Renaissance Atlanta Midtown Hotel</Name>
+    <Phone>678-412-2400</Phone>
+    <Address NearestAirport="Hartsfield-Jackson Atlanta International Airport">
+      <Number>866</Number>
+      <Street>W Peachtree St NW</Street>
+      <City>Atlanta</City>
+      <State>GA</State>
+      <Zip>30308</Zip>
+    </Address>
+  </Hotel>
+
+  <!-- 10. W Atlanta - Downtown -->
+  <Hotel Rating="4.0">
+    <Name>W Atlanta - Downtown</Name>
+    <Phone>404-582-5800</Phone>
+    <Address NearestAirport="Hartsfield-Jackson Atlanta International Airport">
+      <Number>45</Number>
+      <Street>Ivan Allen Jr Blvd NW</Street>
+      <City>Atlanta</City>
+      <State>GA</State>
+      <Zip>30308</Zip>
+    </Address>
+  </Hotel>
+
+</Hotels>
