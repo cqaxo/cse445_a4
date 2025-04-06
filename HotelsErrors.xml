@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Error #1: Root element is "Hotel" instead of "Hotels" -->
-<Hotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+<Hotel xmlns="https://cqaxo.github.io/cse445_a4/HotelsErrors.xml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:schemaLocation="https://cqaxo.github.io/cse445_a4/HotelsErrors.xml https://cqaxo.github.io/cse445_a4/Hotels.xsd">
 
   <!-- Hotel from Figure 1 (Tempe, AZ) -->
